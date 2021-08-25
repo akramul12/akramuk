@@ -1,0 +1,128 @@
+.haeder img{
+    height: 60px;
+    width: auto;
+}
+.haeder{
+    background: #101446;
+}
+.haeder ul{}
+.haeder ul li{
+    display: inline-block; 
+} 
+.haeder ul li a{
+    padding: 11px 18px;
+    color: #fff;  
+    text-decoration: none; 
+    list-style: none;
+    display: inline-block;
+    
+}
+
+/*=============== bannar secetion============== */
+.bannar{
+    background: url(https://i.postimg.cc/HnNQzdbr/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    padding: 220px;
+    text-align: center;
+    color: #fff;
+}
+.bannar h3{
+
+    /*! padding-top: -32px; */
+    margin: 35px;
+    font-weight: bold;
+}
+.bannar p{}
+.bannar a{ 
+    height: 30px 20px; 
+    background: #337ab7;
+    color: #ffff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 5px;
+   
+    margin-top: 34px;
+}
+
+/* ==========service secetion================ */
+
+.service{
+    background: #bac1f3;
+    padding: 60px 0;
+    text-align: center;
+}
+.service a{
+    background: #337ab7;
+  
+    color: #fff; 
+    padding: 10px 15px; 
+    border-radius: 5px;
+    font-size: 17px;
+    text-decoration: none;
+    margin-bottom: 11px;
+      
+}
+.service h2{
+    font-size: 50px;
+    /*! margin-top: 20px; */
+    padding-bottom: 67px;
+}
+.service h5{
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+/* 
+/==============About secetion=========== */
+.about{
+    background: #c2d4ea;
+    padding: 60px;
+}
+.about img{
+    width: 139px;
+    height: 147px;
+}
+.about h2{
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 42px;
+}
+.fwbold{
+    font-weight: 600;
+}
+.aboutme{
+    text-align: left; 
+    display: inline-block;
+    padding-bottom:30px ;
+}
+/* ============Contacet secetion============== */
+ 
+.map{ 
+    background: #f5f5f5;
+    padding: 60px 0;
+
+}
+
+.map h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.mapp{
+    max-width: 100%;
+}
+/* 
+===========footer=========== */
+
+.footer{
+    background: #0062d3;
+    padding: 10px 0;
+}
+.footer p{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}
